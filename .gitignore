@@ -1,0 +1,15 @@
+# node
+node_modules/
+
+# hardhat
+artifacts/
+cache/
+
+# env
+.env
+
+# frontend build
+frontend/dist/
+
+# OS
+.DS_Store
